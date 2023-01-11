@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home - GITS</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Introduction</h1>
+            <p>Perusahaan kami merupakan perusahaan yang bergerak dalam bidang...</p>
+        </div>
+    </header>
+    <section id="services">
+        <div class="container">
+            <h1>Services</h1>
+            <div class="services-content">
+                <div class="services-item">
+                    <img src="...">
+                    <h2>Service 1</h2>
+                    <p>Deskripsi service 1...</p>
+                </div>
+                <div class="services-item">
+                    <img src="...">
+                    <h2>Service 2</h2>
+                    <p>Deskripsi service 2...</p>
+                </div>
+                ...
+            </div>
+            <div class="services-nav">
+                <button class="prev">Previous</button>
+                <button class="next">Next</button>
+            </div>
+        </div>
+    </section>
+    <section id="portfolio">
+        <div class="container">
+            <h1>Portfolio</h1>
+            <div class="portfolio-content">
+                <div class="portfolio-item">
+                    <img src="...">
+                    <h2>Project 1</h2>
+                    <p>Deskripsi project 1...</p>
+                </div>
+                <div class="portfolio-item">
+                    <img src="...">
+                    <h2>Project 2</h2>
+                    <p>Deskripsi project 2...</p>
+                </div>
+                ...
+            </div>
+            <button class="see-all">See All</button>
+        </div>
+    </section>
+    <section id="promotion">
+        <div class="container">
+            <h1>Promotion</h1>
+            <div class="promotion-content">
+                <div class="promotion-item">
+                    <img src="...">
+                    <h2>Pencapaian 1</h2>
+                    <p>Deskripsi pencapaian 1...</p>
+                </div>
+                <div class="promotion-item">
+                    <img src="...">
+                    <h2>Pencapaian 2</h2>
+                    <p>Deskripsi pencapaian 2...</p>
+                </div>
+                ...
+                <div class="promotion-item">
+                    <h2>Video</h2>
+                    <iframe src="..."></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="testimonials">
+        <div class="container">
+            <h1>Testimon
